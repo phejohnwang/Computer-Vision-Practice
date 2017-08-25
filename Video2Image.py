@@ -5,7 +5,7 @@ Version: 2017-8-25
 @author: pheno
 
 Convert video into image frames (Sample00XXX.png)
-    Usage: python Image2Video.py -g Trial_1_2017_07_12_13_55_35.avi ./Depth
+    Usage: python Video2Image.py -g Trial_1_2017_07_12_13_55_35.avi ./Depth
     
     Currently set FPSCounter = 1 for full frames conversion
 
