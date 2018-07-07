@@ -6,7 +6,7 @@
 Generator for data augmentation on depth images
 
 Input
-    image: folder with cropped 160*160 grayscale images
+    image: folder with cropped 128*128 grayscale images
         x_train_folder_path/
             Sample00001.png
             Sampel00002.png
