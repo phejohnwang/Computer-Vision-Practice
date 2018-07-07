@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Version: 2017-8-25
 
 @author: pheno
 
